@@ -47,8 +47,6 @@ def mssql_get_conn():
 
 
 
-
-
 ``` Python
 def calculate_apriori() -> None:
     lista_apriori = []
