@@ -45,7 +45,6 @@ def apriori_df() -> list:
     return transacoes
 
 
-
 def calculate_apriori() -> None:
     lista_apriori = []
     transacoes = apriori_df()
